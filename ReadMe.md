@@ -6,8 +6,8 @@ You can find the course [here](https://classroom.udacity.com/courses/ud513)
 
 [x] Introduction and Efficiency
 [x] List-Based Collections
-[ ] Search and Sorting
-[ ] Maps and Hashing
+[x] Search and Sorting
+[x] Maps and Hashing
 [ ] Trees
 [ ] Graphs
 [ ] case Studies in Algorithms
