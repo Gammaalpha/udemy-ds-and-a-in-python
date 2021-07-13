@@ -8,7 +8,7 @@ You can find the course [here](https://classroom.udacity.com/courses/ud513)
 [x] List-Based Collections
 [x] Search and Sorting
 [x] Maps and Hashing
-[ ] Trees
+[x] Trees
 [ ] Graphs
 [ ] case Studies in Algorithms
 [ ] Technical Interview Techniques
