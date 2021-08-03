@@ -9,6 +9,6 @@ You can find the course [here](https://classroom.udacity.com/courses/ud513)
 [x] Search and Sorting
 [x] Maps and Hashing
 [x] Trees
-[ ] Graphs
-[ ] case Studies in Algorithms
-[ ] Technical Interview Techniques
+[x] Graphs
+[x] case Studies in Algorithms
+[x] Technical Interview Techniques
